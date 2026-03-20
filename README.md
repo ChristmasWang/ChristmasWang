@@ -1,6 +1,6 @@
 
 ![sumy7](https://komarev.com/ghpvc/?username=ChristmasWang)
-![sumy7](https://visitor-badge.glitch.me/badge?page_id=ChristmasWang.profile)
+
 
 - 👋 Hi, I’m @ChristmasWang
 - 👀 I’m interested in ML.
